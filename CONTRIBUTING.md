@@ -5,19 +5,27 @@ Thank you for considering contributing to this project! We welcome contributions
 
 ## 📌 Ground Rules
 Be respectful: Treat others with kindness and professionalism.
+
 Stay on topic: Keep discussions relevant to the project.
+
 No spam or self-promotion: Contributions should be meaningful and related to the project.
 
 ## 🛠️ How to Contribute
-Fork the repository
+Fork the repository.
+
 Create a new branch for your feature or bugfix.
+
 Make your changes and commit them with clear messages.
+
 Push to your fork and submit a Pull Request (PR).
 
 ## ✅ Pull Request Requirements
 Follow the existing code style.
+
 Include tests for new features or bug fixes.
+
 Reference related issues in your PR description (e.g., Fixes #123).
+
 Ensure your branch is up to date with main.
 
 ## 📂 Code of Conduct
